@@ -9,11 +9,14 @@
 - 💻 Constantly learning and applying new tools in data science and AI  
 
 ---
-### 🚀 Skills & Tools
+## 🚀 Skills & Tools
+
+ <!-- your existing skills buttons -->
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Boy GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
+
 
 
 
