@@ -12,11 +12,10 @@
 ## 🚀 Skills & Tools
 
  <!-- your existing skills buttons -->
-
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-</p>
-
+<table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+  <tr>
+    <!-- Left Side: Skill Badges -->
+    <td style="vertical-align: top; padding: 0;">
 
 
 
@@ -53,6 +52,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+ </td>
+  <!-- Right Side: GIF -->
+    <td style="text-align: center; vertical-align: top; padding: 0;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
