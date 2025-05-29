@@ -15,7 +15,7 @@
 <table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
   <tr>
     <!-- Left Side: Skill Badges -->
-    <td style="vertical-align: top; padding: 0;width: 75%;">
+    <td style="vertical-align: top; padding: 0;width: 65%;">
 
 
 
@@ -67,8 +67,8 @@
 </p>
  </td>
   <!-- Right Side: GIF -->
-    <td style="text-align: center; vertical-align: top; padding: 0;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+    <td style="text-align: center; vertical-align: top; padding: 0;  width: 35%;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
     </td>
   </tr>
 </table>
