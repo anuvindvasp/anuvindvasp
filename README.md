@@ -15,7 +15,7 @@
 <table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
   <tr>
     <!-- Left Side: Skill Badges -->
-    <td style="vertical-align: top; padding: 0;">
+    <td style="vertical-align: top; padding: 0;width: 75%;">
 
 
 
