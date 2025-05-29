@@ -92,7 +92,7 @@
   <a href="https://www.instagram.com/anuvind_vas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://anuvindvas.github.io/" target="_blank">
+  <a href="https://anuvindvasp.github.io//" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
 </a>
 
