@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anuvind Vas P 👋🏻</h1>
-<h3 align="center">Data Analyst | Data Scientist </h3>
+<h3 align="center">Data Analyst | Data Scientist </h2>
 
 ---
 
