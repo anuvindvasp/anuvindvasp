@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Anuvind Vas P 👋🏻</h1>
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist </h3>
 
 ---
 
-### 🧠 About Me
-- 🔍 Passionate about uncovering insights from data and building data-driven solutions  
-- 📊 Experienced in data analysis, visualization, and predictive modeling  
+###  About Me
+- 🔍 Passionate about uncovering insights from data and building data-driven solutions
+- 📊 Experienced in data analysis, visualization, machine learning, predictive modeling and automation
 - 💻 Constantly learning and applying new tools in data science and AI  
 
 ---
