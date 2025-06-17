@@ -11,11 +11,12 @@
 ---
 ## 🚀 Skills & Tools
 
+
  <!-- your existing skills buttons -->
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-spacing: 0; border-collapse: collapse; border: none;">
+  <tr style="border:none;">
     <!-- Left Side: Skill Badges -->
-    <td style="vertical-align: top; padding: 0;width: 65%;">
+    <td style="vertical-align: top; padding: 0;width: 65%; border: none;">
 
 
 
@@ -73,7 +74,7 @@
 </p>
  </td>
   <!-- Right Side: GIF -->
-    <td style="text-align: center; vertical-align: top; padding: 0;  width: 35%;">
+    <td style="text-align: center; vertical-align: top; padding: 0;  width: 35%; border: none;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
     </td>
   </tr>
@@ -82,6 +83,8 @@
 ---
 
 ### 🌐 Connect with Me
+
+<br>
 <p>
   <a href="https://www.linkedin.com/in/anuvind-vas-p-8aa809325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -89,17 +92,18 @@
   <a href="mailto:anuvindvasputhiyottil255@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/AnuvindVas" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
+ <a href="https://anuvindvasp.github.io//" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
+</a>
   <a href="https://www.facebook.com/anuvindvas.p" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+ <a href="https://x.com/AnuvindVas" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/anuvind_vas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://anuvindvasp.github.io//" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
-</a>
+  
 
 </p>
