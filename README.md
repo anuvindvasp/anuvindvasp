@@ -57,6 +57,7 @@
 <p>
   <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Scrapy-222?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
 </p>
 
 #### ⚙️ Tools & Platforms
