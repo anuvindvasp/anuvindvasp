@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Scrapy-222?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
+  <img src="https://img.shields.io/badge/requests-005571?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
 </p>
 
 #### ⚙️ Tools & Platforms
@@ -67,6 +68,7 @@
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
