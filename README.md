@@ -92,24 +92,14 @@
 
 <br>
 <p>
-  <a href="https://www.linkedin.com/in/anuvind-vas-p-8aa809325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- 
-  <a href="mailto:anuvindvasputhiyottil255@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- <a href="https://anuvindvasp.github.io//" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
-</a>
-  <a href="https://www.facebook.com/anuvindvas.p" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
- <a href="https://x.com/AnuvindVas" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/anuvind_vas/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuvind-vas-p-8aa809325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:anuvindvasputhiyottil255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://anuvindvasp.github.io//"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>&nbsp;
+  <a href="https://www.facebook.com/anuvindvas.p"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/AnuvindVas"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/anuvind_vas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
   
 
 </p>
